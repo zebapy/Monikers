@@ -1,0 +1,1316 @@
+[
+  {
+    "category": "Movies",
+    "title": "Forrest Gump",
+    "description": "A simple man's extraordinary life journey through historical events.",
+    "points": 4
+  },
+  {
+    "category": "Movies",
+    "title": "Avatar",
+    "description": "A science fiction film set on the alien planet of Pandora.",
+    "points": 3
+  },
+  {
+    "category": "Movies",
+    "title": "The Matrix",
+    "description": "A cyberpunk action film exploring a simulated reality.",
+    "points": 4
+  },
+  {
+    "category": "Movies",
+    "title": "The Godfather",
+    "description": "The story of a powerful Italian-American mafia family.",
+    "points": 3
+  },
+  {
+    "category": "Movies",
+    "title": "Schindler's List",
+    "description": "A film depicting a businessman's efforts to save Jews during the Holocaust.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Sydney Opera House",
+    "description": "An iconic performing arts venue with distinctive shell-like architecture.",
+    "points": 3
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Stonehenge",
+    "description": "A prehistoric monument consisting of massive stone circles.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Christ the Redeemer",
+    "description": "A colossal statue of Jesus Christ overlooking Rio de Janeiro.",
+    "points": 3
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Petra",
+    "description": "An ancient city carved into rose-red cliffs in Jordan.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Angkor Wat",
+    "description": "A stunning temple complex in Cambodia",
+    "points": "known for its intricate design."
+  },
+  {
+    "category": "Historical Figures",
+    "title": "George Washington",
+    "description": "The first President of the United States and Founding Father.",
+    "points": 3
+  },
+  {
+    "category": "Historical Figures",
+    "title": "Queen Elizabeth II",
+    "description": "The longest-reigning current monarch of the United Kingdom.",
+    "points": 4
+  },
+  {
+    "category": "Historical Figures",
+    "title": "Gandhi",
+    "description": "The leader of India's nonviolent independence movement.",
+    "points": 3
+  },
+  {
+    "category": "Historical Figures",
+    "title": "Abraham Lincoln",
+    "description": "The 16th President of the United States who abolished slavery.",
+    "points": 4
+  },
+  {
+    "category": "Historical Figures",
+    "title": "Malala Yousafzai",
+    "description": "A Pakistani activist advocating for girls' education and women's rights.",
+    "points": 4
+  },
+  {
+    "category": "Animals",
+    "title": "Giraffe",
+    "description": "A tall",
+    "points": "long-necked herbivore native to Africa."
+  },
+  {
+    "category": "Animals",
+    "title": "Humpback Whale",
+    "description": "A majestic marine mammal known for its acrobatic leaps.",
+    "points": 4
+  },
+  {
+    "category": "Animals",
+    "title": "Polar Bear",
+    "description": "A large carnivorous bear adapted to cold Arctic environments.",
+    "points": 3
+  },
+  {
+    "category": "Animals",
+    "title": "Red Fox",
+    "description": "A small carnivorous mammal known for its cunning behavior.",
+    "points": 4
+  },
+  {
+    "category": "Animals",
+    "title": "Kangaroo",
+    "description": "An Australian marsupial known for its powerful hind legs.",
+    "points": 3
+  },
+  {
+    "category": "Countries",
+    "title": "China",
+    "description": "The world's most populous country with a rich cultural heritage.",
+    "points": 4
+  },
+  {
+    "category": "Countries",
+    "title": "Russia",
+    "description": "A vast nation known for its diverse landscapes and history.",
+    "points": 4
+  },
+  {
+    "category": "Countries",
+    "title": "Canada",
+    "description": "A North American country famous for its wilderness and friendly people.",
+    "points": 3
+  },
+  {
+    "category": "Countries",
+    "title": "Germany",
+    "description": "A European nation with a strong economy and rich history.",
+    "points": 3
+  },
+  {
+    "category": "Countries",
+    "title": "United Kingdom",
+    "description": "Comprising four countries",
+    "points": "including England"
+  },
+  {
+    "category": "Fruits",
+    "title": "Blueberry",
+    "description": "A small",
+    "points": "sweet fruit often used in desserts and breakfast dishes."
+  },
+  {
+    "category": "Fruits",
+    "title": "Pineapple",
+    "description": "A tropical fruit with a spiky exterior and sweet",
+    "points": "juicy flesh."
+  },
+  {
+    "category": "Fruits",
+    "title": "Kiwi",
+    "description": "A small",
+    "points": "fuzzy fruit with green flesh and tiny black seeds."
+  },
+  {
+    "category": "Fruits",
+    "title": "Watermelon",
+    "description": "A refreshing fruit with pink or red flesh and black seeds.",
+    "points": 3
+  },
+  {
+    "category": "Fruits",
+    "title": "Mango",
+    "description": "A juicy",
+    "points": "tropical fruit known for its sweet and tangy flavor."
+  },
+  {
+    "category": "Sports",
+    "title": "Baseball",
+    "description": "A bat-and-ball sport played on a diamond-shaped field.",
+    "points": 4
+  },
+  {
+    "category": "Sports",
+    "title": "Hockey",
+    "description": "A fast-paced team sport played on ice with sticks and a puck.",
+    "points": 4
+  },
+  {
+    "category": "Sports",
+    "title": "Volleyball",
+    "description": "A team sport played with a ball over a net.",
+    "points": 3
+  },
+  {
+    "category": "Sports",
+    "title": "Cricket",
+    "description": "A bat-and-ball game played between two teams on a circular field.",
+    "points": 3
+  },
+  {
+    "category": "Sports",
+    "title": "Fencing",
+    "description": "A combat sport involving two participants using swords.",
+    "points": 3
+  },
+  {
+    "category": "Technology",
+    "title": "Artificial Intelligence (AI)",
+    "description": "The development of machines that can perform tasks requiring human intelligence.",
+    "points": 4
+  },
+  {
+    "category": "Technology",
+    "title": "SpaceX",
+    "description": "A private aerospace manufacturer and space transportation company.",
+    "points": 3
+  },
+  {
+    "category": "Technology",
+    "title": "Self-Driving Cars",
+    "description": "Vehicles equipped with technology to navigate without human input.",
+    "points": 3
+  },
+  {
+    "category": "Technology",
+    "title": "Blockchain",
+    "description": "A decentralized digital ledger technology used for secure transactions.",
+    "points": 4
+  },
+  {
+    "category": "Technology",
+    "title": "Virtual Assistant",
+    "description": "Software designed to assist users with tasks using natural language processing.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Spinach",
+    "description": "A leafy green vegetable rich in nutrients.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Cauliflower",
+    "description": "A white vegetable often used in cooking and as a low-carb substitute.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Asparagus",
+    "description": "A green vegetable known for its distinctive flavor.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Beetroot",
+    "description": "A root vegetable with vibrant red flesh often used in salads.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Zucchini",
+    "description": "A green summer squash often used in savory dishes and baking.",
+    "points": 3
+  },
+  {
+    "category": "Artists",
+    "title": "Salvador Dali",
+    "description": "A Spanish surrealist artist known for his eccentric and imaginative works.",
+    "points": 4
+  },
+  {
+    "category": "Artists",
+    "title": "Andy Warhol",
+    "description": "An American pop artist known for his iconic Campbell's Soup cans.",
+    "points": 4
+  },
+  {
+    "category": "Artists",
+    "title": "Edvard Munch",
+    "description": "A Norwegian painter famous for The Scream and symbolist art.",
+    "points": 3
+  },
+  {
+    "category": "Artists",
+    "title": "Jackson Pollock",
+    "description": "An American abstract expressionist known for his drip painting style.",
+    "points": 3
+  },
+  {
+    "category": "Artists",
+    "title": "Michelangelo",
+    "description": "An Italian Renaissance artist known for works like the Sistine Chapel ceiling.",
+    "points": 4
+  },
+  {
+    "category": "Food",
+    "title": "Ice Cream",
+    "description": "A frozen dessert available in various flavors and toppings.",
+    "points": 3
+  },
+  {
+    "category": "Food",
+    "title": "Sushi",
+    "description": "A Japanese dish consisting of vinegared rice",
+    "points": "fish"
+  },
+  {
+    "category": "Food",
+    "title": "Taco",
+    "description": "A traditional Mexican dish with a folded tortilla filled with various ingredients.",
+    "points": 3
+  },
+  {
+    "category": "Food",
+    "title": "Chocolate Chip Cookies",
+    "description": "Classic cookies with chocolate chips",
+    "points": "loved by people of all ages."
+  },
+  {
+    "category": "Food",
+    "title": "Spicy Curry",
+    "description": "A flavorful dish from India known for its use of aromatic spices.",
+    "points": 3
+  },
+  {
+    "category": "Science",
+    "title": "The Periodic Table",
+    "description": "A chart organizing chemical elements by atomic number and properties.",
+    "points": 3
+  },
+  {
+    "category": "Science",
+    "title": "Climate Change",
+    "description": "The long-term alteration of Earth's climate patterns due to human activities.",
+    "points": 4
+  },
+  {
+    "category": "Science",
+    "title": "Genetics",
+    "description": "The study of genes and heredity",
+    "points": "influencing the traits of organisms."
+  },
+  {
+    "category": "Science",
+    "title": "Astronomy",
+    "description": "The scientific study of celestial objects",
+    "points": "such as stars"
+  },
+  {
+    "category": "Science",
+    "title": "Neuroscience",
+    "description": "The scientific study of the nervous system and brain function.",
+    "points": 3
+  },
+  {
+    "category": "Books",
+    "title": "The Lord of the Rings",
+    "description": "A fantasy novel series by J.R.R. Tolkien set in the fictional realm of Middle-earth.",
+    "points": 4
+  },
+  {
+    "category": "Books",
+    "title": "Brave New World",
+    "description": "A dystopian novel by Aldous Huxley exploring a futuristic society.",
+    "points": 3
+  },
+  {
+    "category": "Books",
+    "title": "The Great Gatsby",
+    "description": "A classic novel by F. Scott Fitzgerald capturing the Roaring Twenties.",
+    "points": 4
+  },
+  {
+    "category": "Books",
+    "title": "War and Peace",
+    "description": "A Russian epic novel by Leo Tolstoy depicting the Napoleonic era in Russia.",
+    "points": 3
+  },
+  {
+    "category": "Books",
+    "title": "The Hunger Games",
+    "description": "A dystopian novel by Suzanne Collins featuring a televised fight to the death.",
+    "points": 3
+  },
+  {
+    "category": "Movies",
+    "title": "The Silence of the Lambs",
+    "description": "A psychological thriller about an FBI agent and a brilliant serial killer.",
+    "points": 4
+  },
+  {
+    "category": "Movies",
+    "title": "Pulp Fiction",
+    "description": "A nonlinear crime film directed by Quentin Tarantino.",
+    "points": 3
+  },
+  {
+    "category": "Movies",
+    "title": "Gladiator",
+    "description": "A historical drama depicting a Roman general's quest for vengeance.",
+    "points": 4
+  },
+  {
+    "category": "Movies",
+    "title": "Interstellar",
+    "description": "A science fiction film exploring space travel and the survival of humanity.",
+    "points": 3
+  },
+  {
+    "category": "Movies",
+    "title": "The Lion King",
+    "description": "An animated Disney film featuring the journey of a young lion prince.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Mount Rushmore",
+    "description": "A sculpture carved into a mountain featuring the faces of four U.S. presidents.",
+    "points": 3
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "The Colosseum",
+    "description": "An ancient Roman amphitheater known for gladiatorial contests.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "The Pyramids of Giza",
+    "description": "Iconic Egyptian structures built as tombs for pharaohs.",
+    "points": 3
+  },
+  {
+    "category": "Movies",
+    "title": "Forrest Gump",
+    "description": "A simple man's extraordinary life journey through historical events.",
+    "points": 4
+  },
+  {
+    "category": "Movies",
+    "title": "Avatar",
+    "description": "A science fiction film set on the alien planet of Pandora.",
+    "points": 3
+  },
+  {
+    "category": "Movies",
+    "title": "The Matrix",
+    "description": "A cyberpunk action film exploring a simulated reality.",
+    "points": 4
+  },
+  {
+    "category": "Movies",
+    "title": "The Godfather",
+    "description": "The story of a powerful Italian-American mafia family.",
+    "points": 3
+  },
+  {
+    "category": "Movies",
+    "title": "Schindler's List",
+    "description": "A film depicting a businessman's efforts to save Jews during the Holocaust.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Sydney Opera House",
+    "description": "An iconic performing arts venue with distinctive shell-like architecture.",
+    "points": 3
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Stonehenge",
+    "description": "A prehistoric monument consisting of massive stone circles.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Christ the Redeemer",
+    "description": "A colossal statue of Jesus Christ overlooking Rio de Janeiro.",
+    "points": 3
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Petra",
+    "description": "An ancient city carved into rose-red cliffs in Jordan.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Angkor Wat",
+    "description": "A stunning temple complex in Cambodia",
+    "points": "known for its intricate design."
+  },
+  {
+    "category": "Historical Figures",
+    "title": "George Washington",
+    "description": "The first President of the United States and Founding Father.",
+    "points": 3
+  },
+  {
+    "category": "Historical Figures",
+    "title": "Queen Elizabeth II",
+    "description": "The longest-reigning current monarch of the United Kingdom.",
+    "points": 4
+  },
+  {
+    "category": "Historical Figures",
+    "title": "Gandhi",
+    "description": "The leader of India's nonviolent independence movement.",
+    "points": 3
+  },
+  {
+    "category": "Historical Figures",
+    "title": "Abraham Lincoln",
+    "description": "The 16th President of the United States who abolished slavery.",
+    "points": 4
+  },
+  {
+    "category": "Historical Figures",
+    "title": "Malala Yousafzai",
+    "description": "A Pakistani activist advocating for girls' education and women's rights.",
+    "points": 4
+  },
+  {
+    "category": "Animals",
+    "title": "Giraffe",
+    "description": "A tall",
+    "points": "long-necked herbivore native to Africa."
+  },
+  {
+    "category": "Animals",
+    "title": "Humpback Whale",
+    "description": "A majestic marine mammal known for its acrobatic leaps.",
+    "points": 4
+  },
+  {
+    "category": "Animals",
+    "title": "Polar Bear",
+    "description": "A large carnivorous bear adapted to cold Arctic environments.",
+    "points": 3
+  },
+  {
+    "category": "Animals",
+    "title": "Red Fox",
+    "description": "A small carnivorous mammal known for its cunning behavior.",
+    "points": 4
+  },
+  {
+    "category": "Animals",
+    "title": "Kangaroo",
+    "description": "An Australian marsupial known for its powerful hind legs.",
+    "points": 3
+  },
+  {
+    "category": "Countries",
+    "title": "China",
+    "description": "The world's most populous country with a rich cultural heritage.",
+    "points": 4
+  },
+  {
+    "category": "Countries",
+    "title": "Russia",
+    "description": "A vast nation known for its diverse landscapes and history.",
+    "points": 4
+  },
+  {
+    "category": "Countries",
+    "title": "Canada",
+    "description": "A North American country famous for its wilderness and friendly people.",
+    "points": 3
+  },
+  {
+    "category": "Countries",
+    "title": "Germany",
+    "description": "A European nation with a strong economy and rich history.",
+    "points": 3
+  },
+  {
+    "category": "Countries",
+    "title": "United Kingdom",
+    "description": "Comprising four countries",
+    "points": "including England"
+  },
+  {
+    "category": "Fruits",
+    "title": "Blueberry",
+    "description": "A small",
+    "points": "sweet fruit often used in desserts and breakfast dishes."
+  },
+  {
+    "category": "Fruits",
+    "title": "Pineapple",
+    "description": "A tropical fruit with a spiky exterior and sweet",
+    "points": "juicy flesh."
+  },
+  {
+    "category": "Fruits",
+    "title": "Kiwi",
+    "description": "A small",
+    "points": "fuzzy fruit with green flesh and tiny black seeds."
+  },
+  {
+    "category": "Fruits",
+    "title": "Watermelon",
+    "description": "A refreshing fruit with pink or red flesh and black seeds.",
+    "points": 3
+  },
+  {
+    "category": "Fruits",
+    "title": "Mango",
+    "description": "A juicy",
+    "points": "tropical fruit known for its sweet and tangy flavor."
+  },
+  {
+    "category": "Sports",
+    "title": "Baseball",
+    "description": "A bat-and-ball sport played on a diamond-shaped field.",
+    "points": 4
+  },
+  {
+    "category": "Sports",
+    "title": "Hockey",
+    "description": "A fast-paced team sport played on ice with sticks and a puck.",
+    "points": 4
+  },
+  {
+    "category": "Sports",
+    "title": "Volleyball",
+    "description": "A team sport played with a ball over a net.",
+    "points": 3
+  },
+  {
+    "category": "Sports",
+    "title": "Cricket",
+    "description": "A bat-and-ball game played between two teams on a circular field.",
+    "points": 3
+  },
+  {
+    "category": "Sports",
+    "title": "Fencing",
+    "description": "A combat sport involving two participants using swords.",
+    "points": 3
+  },
+  {
+    "category": "Technology",
+    "title": "Artificial Intelligence (AI)",
+    "description": "The development of machines that can perform tasks requiring human intelligence.",
+    "points": 4
+  },
+  {
+    "category": "Technology",
+    "title": "SpaceX",
+    "description": "A private aerospace manufacturer and space transportation company.",
+    "points": 3
+  },
+  {
+    "category": "Technology",
+    "title": "Self-Driving Cars",
+    "description": "Vehicles equipped with technology to navigate without human input.",
+    "points": 3
+  },
+  {
+    "category": "Technology",
+    "title": "Blockchain",
+    "description": "A decentralized digital ledger technology used for secure transactions.",
+    "points": 4
+  },
+  {
+    "category": "Technology",
+    "title": "Virtual Assistant",
+    "description": "Software designed to assist users with tasks using natural language processing.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Spinach",
+    "description": "A leafy green vegetable rich in nutrients.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Cauliflower",
+    "description": "A white vegetable often used in cooking and as a low-carb substitute.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Asparagus",
+    "description": "A green vegetable known for its distinctive flavor.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Beetroot",
+    "description": "A root vegetable with vibrant red flesh often used in salads.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Zucchini",
+    "description": "A green summer squash often used in savory dishes and baking.",
+    "points": 3
+  },
+  {
+    "category": "Artists",
+    "title": "Salvador Dali",
+    "description": "A Spanish surrealist artist known for his eccentric and imaginative works.",
+    "points": 4
+  },
+  {
+    "category": "Artists",
+    "title": "Andy Warhol",
+    "description": "An American pop artist known for his iconic Campbell's Soup cans.",
+    "points": 4
+  },
+  {
+    "category": "Artists",
+    "title": "Edvard Munch",
+    "description": "A Norwegian painter famous for The Scream and symbolist art.",
+    "points": 3
+  },
+  {
+    "category": "Artists",
+    "title": "Jackson Pollock",
+    "description": "An American abstract expressionist known for his drip painting style.",
+    "points": 3
+  },
+  {
+    "category": "Artists",
+    "title": "Michelangelo",
+    "description": "An Italian Renaissance artist known for works like the Sistine Chapel ceiling.",
+    "points": 4
+  },
+  {
+    "category": "Food",
+    "title": "Ice Cream",
+    "description": "A frozen dessert available in various flavors and toppings.",
+    "points": 3
+  },
+  {
+    "category": "Food",
+    "title": "Sushi",
+    "description": "A Japanese dish consisting of vinegared rice",
+    "points": "fish"
+  },
+  {
+    "category": "Food",
+    "title": "Taco",
+    "description": "A traditional Mexican dish with a folded tortilla filled with various ingredients.",
+    "points": 3
+  },
+  {
+    "category": "Food",
+    "title": "Chocolate Chip Cookies",
+    "description": "Classic cookies with chocolate chips",
+    "points": "loved by people of all ages."
+  },
+  {
+    "category": "Food",
+    "title": "Spicy Curry",
+    "description": "A flavorful dish from India known for its use of aromatic spices.",
+    "points": 3
+  },
+  {
+    "category": "Science",
+    "title": "The Periodic Table",
+    "description": "A chart organizing chemical elements by atomic number and properties.",
+    "points": 3
+  },
+  {
+    "category": "Science",
+    "title": "Climate Change",
+    "description": "The long-term alteration of Earth's climate patterns due to human activities.",
+    "points": 4
+  },
+  {
+    "category": "Science",
+    "title": "Genetics",
+    "description": "The study of genes and heredity",
+    "points": "influencing the traits of organisms."
+  },
+  {
+    "category": "Science",
+    "title": "Astronomy",
+    "description": "The scientific study of celestial objects",
+    "points": "such as stars"
+  },
+  {
+    "category": "Science",
+    "title": "Neuroscience",
+    "description": "The scientific study of the nervous system and brain function.",
+    "points": 3
+  },
+  {
+    "category": "Books",
+    "title": "The Lord of the Rings",
+    "description": "A fantasy novel series by J.R.R. Tolkien set in the fictional realm of Middle-earth.",
+    "points": 4
+  },
+  {
+    "category": "Books",
+    "title": "Brave New World",
+    "description": "A dystopian novel by Aldous Huxley exploring a futuristic society.",
+    "points": 3
+  },
+  {
+    "category": "Books",
+    "title": "The Great Gatsby",
+    "description": "A classic novel by F. Scott Fitzgerald capturing the Roaring Twenties.",
+    "points": 4
+  },
+  {
+    "category": "Books",
+    "title": "War and Peace",
+    "description": "A Russian epic novel by Leo Tolstoy depicting the Napoleonic era in Russia.",
+    "points": 3
+  },
+  {
+    "category": "Books",
+    "title": "The Hunger Games",
+    "description": "A dystopian novel by Suzanne Collins featuring a televised fight to the death.",
+    "points": 3
+  },
+  {
+    "category": "Movies",
+    "title": "The Silence of the Lambs",
+    "description": "A psychological thriller about an FBI agent and a brilliant serial killer.",
+    "points": 4
+  },
+  {
+    "category": "Movies",
+    "title": "Pulp Fiction",
+    "description": "A nonlinear crime film directed by Quentin Tarantino.",
+    "points": 3
+  },
+  {
+    "category": "Movies",
+    "title": "Gladiator",
+    "description": "A historical drama depicting a Roman general's quest for vengeance.",
+    "points": 4
+  },
+  {
+    "category": "Movies",
+    "title": "Interstellar",
+    "description": "A science fiction film exploring space travel and the survival of humanity.",
+    "points": 3
+  },
+  {
+    "category": "Movies",
+    "title": "The Lion King",
+    "description": "An animated Disney film featuring the journey of a young lion prince.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Mount Rushmore",
+    "description": "A sculpture carved into a mountain featuring the faces of four U.S. presidents.",
+    "points": 3
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "The Colosseum",
+    "description": "An ancient Roman amphitheater known for gladiatorial contests.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "The Pyramids of Giza",
+    "description": "Iconic Egyptian structures built as tombs for pharaohs.",
+    "points": 3
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "The Grand Canyon",
+    "description": "A",
+    "points": ""
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Taj Mahal",
+    "description": "A stunning white marble mausoleum in India.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "The Great Wall of China",
+    "description": "An ancient fortification winding through northern China.",
+    "points": 3
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "The Eiffel Tower",
+    "description": "An iconic iron lattice tower in the heart of Paris.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Statue of Liberty",
+    "description": "A symbol of freedom and democracy in New York Harbor.",
+    "points": 3
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Machu Picchu",
+    "description": "An ancient Incan citadel nestled in the Andes Mountains.",
+    "points": 4
+  },
+  {
+    "category": "Historical Figures",
+    "title": "William Shakespeare",
+    "description": "The English playwright known for timeless works like Romeo and Juliet.",
+    "points": 3
+  },
+  {
+    "category": "Historical Figures",
+    "title": "Queen Cleopatra",
+    "description": "The last pharaoh of Egypt",
+    "points": "famed for her allure and wit."
+  },
+  {
+    "category": "Historical Figures",
+    "title": "Mahatma Gandhi",
+    "description": "A leader of India's nonviolent struggle for independence.",
+    "points": 3
+  },
+  {
+    "category": "Historical Figures",
+    "title": "Emperor Julius Caesar",
+    "description": "An influential Roman leader known for his role in the fall of the Republic.",
+    "points": 4
+  },
+  {
+    "category": "Historical Figures",
+    "title": "Amelia Earhart",
+    "description": "An aviation pioneer and the first woman to fly solo across the Atlantic Ocean.",
+    "points": 3
+  },
+  {
+    "category": "Animals",
+    "title": "Panda",
+    "description": "A black and white bear native to China",
+    "points": "known for its bamboo diet."
+  },
+  {
+    "category": "Animals",
+    "title": "Lion",
+    "description": "The king of the jungle",
+    "points": "a majestic big cat often associated with strength."
+  },
+  {
+    "category": "Animals",
+    "title": "Koala",
+    "description": "A marsupial native to Australia",
+    "points": "recognized for its eucalyptus diet."
+  },
+  {
+    "category": "Animals",
+    "title": "Orca (Killer Whale)",
+    "description": "A highly intelligent marine mammal known for its striking appearance.",
+    "points": 4
+  },
+  {
+    "category": "Animals",
+    "title": "Red-Eyed Tree Frog",
+    "description": "A vibrant",
+    "points": "tree-dwelling frog native to Central and South America."
+  },
+  {
+    "category": "Countries",
+    "title": "Australia",
+    "description": "A vast island nation known for unique wildlife and stunning landscapes.",
+    "points": 4
+  },
+  {
+    "category": "Countries",
+    "title": "India",
+    "description": "A culturally rich South Asian country known for its diverse traditions.",
+    "points": 4
+  },
+  {
+    "category": "Countries",
+    "title": "Canada",
+    "description": "A northern North American country celebrated for its natural beauty.",
+    "points": 3
+  },
+  {
+    "category": "Countries",
+    "title": "Brazil",
+    "description": "A South American nation famous for its Amazon rainforest and carnival.",
+    "points": 3
+  },
+  {
+    "category": "Countries",
+    "title": "Japan",
+    "description": "An East Asian country blending tradition with modernity.",
+    "points": 3
+  },
+  {
+    "category": "Fruits",
+    "title": "Cherry",
+    "description": "A small",
+    "points": "sweet fruit with a distinct red or black color."
+  },
+  {
+    "category": "Fruits",
+    "title": "Avocado",
+    "description": "A creamy green fruit often used in salads and spreads.",
+    "points": 3
+  },
+  {
+    "category": "Fruits",
+    "title": "Grapefruit",
+    "description": "A citrus fruit known for its tart taste and health benefits.",
+    "points": 3
+  },
+  {
+    "category": "Fruits",
+    "title": "Papaya",
+    "description": "A tropical fruit with orange flesh and edible seeds.",
+    "points": 3
+  },
+  {
+    "category": "Fruits",
+    "title": "Dragon Fruit",
+    "description": "A vibrant and exotic fruit with white or red flesh speckled with black seeds.",
+    "points": 3
+  },
+  {
+    "category": "Sports",
+    "title": "Soccer",
+    "description": "The world's most popular sport",
+    "points": "played with a spherical ball."
+  },
+  {
+    "category": "Sports",
+    "title": "Basketball",
+    "description": "A high-paced sport that involves shooting a ball into a hoop.",
+    "points": 4
+  },
+  {
+    "category": "Sports",
+    "title": "Swimming",
+    "description": "An aquatic activity that involves propelling oneself through water.",
+    "points": 3
+  },
+  {
+    "category": "Sports",
+    "title": "Track and Field",
+    "description": "A category of sports including running",
+    "points": "jumping"
+  },
+  {
+    "category": "Sports",
+    "title": "Surfing",
+    "description": "Riding ocean waves with a surfboard",
+    "points": "a popular water sport."
+  },
+  {
+    "category": "Technology",
+    "title": "Smartwatch",
+    "description": "A wearable device that offers various digital functions.",
+    "points": 3
+  },
+  {
+    "category": "Technology",
+    "title": "Drone",
+    "description": "An unmanned aerial vehicle used for various purposes.",
+    "points": 3
+  },
+  {
+    "category": "Technology",
+    "title": "3D Printing",
+    "description": "Creating three-dimensional objects from digital designs.",
+    "points": 4
+  },
+  {
+    "category": "Technology",
+    "title": "Artificial Neural Network",
+    "description": "A computer system inspired by the human brain used in machine learning.",
+    "points": 4
+  },
+  {
+    "category": "Technology",
+    "title": "Augmented Reality (AR)",
+    "description": "Enhancing the real world with computer-generated elements.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Cabbage",
+    "description": "A leafy green vegetable often used in salads and coleslaw.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Pepper (Bell Pepper)",
+    "description": "A colorful vegetable often used in cooking and salads.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Eggplant",
+    "description": "A purple or black vegetable commonly used in Mediterranean cuisine.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Kale",
+    "description": "A nutrient-rich leafy green vegetable used in various dishes.",
+    "points": 3
+  },
+  {
+    "category": "Vegetables",
+    "title": "Okra",
+    "description": "A green vegetable known for its slimy texture",
+    "points": "often used in Southern cuisine."
+  },
+  {
+    "category": "Artists",
+    "title": "Leonardo da Vinci",
+    "description": "The Renaissance genius behind the Mona Lisa and The Last Supper.",
+    "points": 4
+  },
+  {
+    "category": "Artists",
+    "title": "Michelangelo",
+    "description": "An Italian Renaissance artist celebrated for his sculptures and paintings.",
+    "points": 4
+  },
+  {
+    "category": "Artists",
+    "title": "Vincent van Gogh",
+    "description": "A Dutch post-impressionist painter known for his expressive use of color.",
+    "points": 4
+  },
+  {
+    "category": "Artists",
+    "title": "Frida Kahlo",
+    "description": "A Mexican artist renowned for her self-portraits and surrealistic style.",
+    "points": 4
+  },
+  {
+    "category": "Artists",
+    "title": "Pablo Picasso",
+    "description": "The Spanish artist who co-founded the Cubist movement and created iconic works.",
+    "points": 4
+  },
+  {
+    "category": "Food",
+    "title": "Pasta",
+    "description": "Italian noodles made from wheat flour",
+    "points": "often served with various sauces."
+  },
+  {
+    "category": "Food",
+    "title": "Sushi",
+    "description": "Japanese cuisine featuring vinegared rice and ingredients like seafood and vegetables.",
+    "points": 4
+  },
+  {
+    "category": "Food",
+    "title": "Taco",
+    "description": "Mexican street food consisting of a folded tortilla with a variety of fillings.",
+    "points": 3
+  },
+  {
+    "category": "Food",
+    "title": "Burger",
+    "description": "A popular American sandwich typically containing a meat patty and toppings.",
+    "points": 3
+  },
+  {
+    "category": "Food",
+    "title": "Pancakes",
+    "description": "Flat and fluffy breakfast cakes often served with syrup and butter.",
+    "points": 3
+  },
+  {
+    "category": "Science",
+    "title": "Chemistry",
+    "description": "The study of matter",
+    "points": "its properties"
+  },
+  {
+    "category": "Science",
+    "title": "Physics",
+    "description": "The study of the fundamental forces and properties of the universe.",
+    "points": 4
+  },
+  {
+    "category": "Science",
+    "title": "Biology",
+    "description": "The science of living organisms and their interactions.",
+    "points": 3
+  },
+  {
+    "category": "Science",
+    "title": "Astronomy",
+    "description": "The study of celestial objects",
+    "points": "including stars"
+  },
+  {
+    "category": "Science",
+    "title": "Geology",
+    "description": "The study of Earth's structure",
+    "points": "composition"
+  },
+  {
+    "category": "Books",
+    "title": "To Kill a Mockingbird",
+    "description": "A novel by Harper Lee addressing racial injustice in the American South.",
+    "points": 4
+  },
+  {
+    "category": "Books",
+    "title": "Pride and Prejudice",
+    "description": "A classic novel by Jane Austen exploring themes of love and class.",
+    "points": 3
+  },
+  {
+    "category": "Books",
+    "title": 1984,
+    "description": "A dystopian novel by George Orwell depicting a totalitarian society.",
+    "points": 4
+  },
+  {
+    "category": "Books",
+    "title": "The Catcher in the Rye",
+    "description": "A novel by J.D. Salinger featuring the disillusioned teenager Holden Caulfield.",
+    "points": 3
+  },
+  {
+    "category": "Books",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "description": "The first book in the Harry Potter series by J.K. Rowling.",
+    "points": 4
+  },
+  {
+    "category": "Movies",
+    "title": "The Silence of the Lambs",
+    "description": "A psychological thriller about an FBI agent and a brilliant serial killer.",
+    "points": 4
+  },
+  {
+    "category": "Movies",
+    "title": "Pulp Fiction",
+    "description": "A nonlinear crime film directed by Quentin Tarantino.",
+    "points": 3
+  },
+  {
+    "category": "Movies",
+    "title": "Gladiator",
+    "description": "A historical drama depicting a Roman general's quest for vengeance.",
+    "points": 4
+  },
+  {
+    "category": "Movies",
+    "title": "Interstellar",
+    "description": "A science fiction film exploring space travel and the survival of humanity.",
+    "points": 3
+  },
+  {
+    "category": "Movies",
+    "title": "The Lion King",
+    "description": "An animated Disney film featuring the journey of a young lion prince.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "Mount Rushmore",
+    "description": "A sculpture carved into a mountain featuring the faces of four U.S. presidents.",
+    "points": 3
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "The Colosseum",
+    "description": "An ancient Roman amphitheater known for gladiatorial contests.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "The Pyramids of Giza",
+    "description": "Iconic Egyptian structures built as tombs for pharaohs.",
+    "points": 3
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "The Grand Canyon",
+    "description": "A breathtaking natural wonder known for its immense size and beauty.",
+    "points": 4
+  },
+  {
+    "category": "Famous Landmarks",
+    "title": "The Sydney Opera House",
+    "description": "An iconic performing arts venue with distinctive shell-like architecture.",
+    "points": 3
+  },
+  {
+    "category": "Historical Figures",
+    "title": "Thomas Edison",
+    "description": "An American inventor known for his contributions to the light bulb and phonograph.",
+    "points": 3
+  },
+  {
+    "category": "Histor",
+    "title": "",
+    "description": "",
+    "points": ""
+  }
+]

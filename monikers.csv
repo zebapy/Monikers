@@ -1,0 +1,230 @@
+category,title,description,points
+Movies,Forrest Gump,A simple man's extraordinary life journey through historical events.,4
+Movies,Avatar,A science fiction film set on the alien planet of Pandora.,3
+Movies,The Matrix,A cyberpunk action film exploring a simulated reality.,4
+Movies,The Godfather,The story of a powerful Italian-American mafia family.,3
+Movies,Schindler's List,A film depicting a businessman's efforts to save Jews during the Holocaust.,4
+Famous Landmarks,Sydney Opera House,An iconic performing arts venue with distinctive shell-like architecture.,3
+Famous Landmarks,Stonehenge,A prehistoric monument consisting of massive stone circles.,4
+Famous Landmarks,Christ the Redeemer,A colossal statue of Jesus Christ overlooking Rio de Janeiro.,3
+Famous Landmarks,Petra,An ancient city carved into rose-red cliffs in Jordan.,4
+Famous Landmarks,Angkor Wat,A stunning temple complex in Cambodia, known for its intricate design.,4
+Historical Figures,George Washington,The first President of the United States and Founding Father.,3
+Historical Figures,Queen Elizabeth II,The longest-reigning current monarch of the United Kingdom.,4
+Historical Figures,Gandhi,The leader of India's nonviolent independence movement.,3
+Historical Figures,Abraham Lincoln,The 16th President of the United States who abolished slavery.,4
+Historical Figures,Malala Yousafzai,A Pakistani activist advocating for girls' education and women's rights.,4
+Animals,Giraffe,A tall, long-necked herbivore native to Africa.,3
+Animals,Humpback Whale,A majestic marine mammal known for its acrobatic leaps.,4
+Animals,Polar Bear,A large carnivorous bear adapted to cold Arctic environments.,3
+Animals,Red Fox,A small carnivorous mammal known for its cunning behavior.,4
+Animals,Kangaroo,An Australian marsupial known for its powerful hind legs.,3
+Countries,China,The world's most populous country with a rich cultural heritage.,4
+Countries,Russia,A vast nation known for its diverse landscapes and history.,4
+Countries,Canada,A North American country famous for its wilderness and friendly people.,3
+Countries,Germany,A European nation with a strong economy and rich history.,3
+Countries,United Kingdom,Comprising four countries, including England, Scotland, Wales, and Northern Ireland.,3
+Fruits,Blueberry,A small, sweet fruit often used in desserts and breakfast dishes.,3
+Fruits,Pineapple,A tropical fruit with a spiky exterior and sweet, juicy flesh.,3
+Fruits,Kiwi,A small, fuzzy fruit with green flesh and tiny black seeds.,3
+Fruits,Watermelon,A refreshing fruit with pink or red flesh and black seeds.,3
+Fruits,Mango,A juicy, tropical fruit known for its sweet and tangy flavor.,3
+Sports,Baseball,A bat-and-ball sport played on a diamond-shaped field.,4
+Sports,Hockey,A fast-paced team sport played on ice with sticks and a puck.,4
+Sports,Volleyball,A team sport played with a ball over a net.,3
+Sports,Cricket,A bat-and-ball game played between two teams on a circular field.,3
+Sports,Fencing,A combat sport involving two participants using swords.,3
+Technology,Artificial Intelligence (AI),The development of machines that can perform tasks requiring human intelligence.,4
+Technology,SpaceX,A private aerospace manufacturer and space transportation company.,3
+Technology,Self-Driving Cars,Vehicles equipped with technology to navigate without human input.,3
+Technology,Blockchain,A decentralized digital ledger technology used for secure transactions.,4
+Technology,Virtual Assistant,Software designed to assist users with tasks using natural language processing.,3
+Vegetables,Spinach,A leafy green vegetable rich in nutrients.,3
+Vegetables,Cauliflower,A white vegetable often used in cooking and as a low-carb substitute.,3
+Vegetables,Asparagus,A green vegetable known for its distinctive flavor.,3
+Vegetables,Beetroot,A root vegetable with vibrant red flesh often used in salads.,3
+Vegetables,Zucchini,A green summer squash often used in savory dishes and baking.,3
+Artists,Salvador Dali,A Spanish surrealist artist known for his eccentric and imaginative works.,4
+Artists,Andy Warhol,An American pop artist known for his iconic Campbell's Soup cans.,4
+Artists,Edvard Munch,A Norwegian painter famous for The Scream and symbolist art.,3
+Artists,Jackson Pollock,An American abstract expressionist known for his drip painting style.,3
+Artists,Michelangelo,An Italian Renaissance artist known for works like the Sistine Chapel ceiling.,4
+Food,Ice Cream,A frozen dessert available in various flavors and toppings.,3
+Food,Sushi,A Japanese dish consisting of vinegared rice, fish, and vegetables.,4
+Food,Taco,A traditional Mexican dish with a folded tortilla filled with various ingredients.,3
+Food,Chocolate Chip Cookies,Classic cookies with chocolate chips, loved by people of all ages.,4
+Food,Spicy Curry,A flavorful dish from India known for its use of aromatic spices.,3
+Science,The Periodic Table,A chart organizing chemical elements by atomic number and properties.,3
+Science,Climate Change,The long-term alteration of Earth's climate patterns due to human activities.,4
+Science,Genetics,The study of genes and heredity, influencing the traits of organisms.,3
+Science,Astronomy,The scientific study of celestial objects, such as stars, planets, and galaxies.,4
+Science,Neuroscience,The scientific study of the nervous system and brain function.,3
+Books,The Lord of the Rings,A fantasy novel series by J.R.R. Tolkien set in the fictional realm of Middle-earth.,4
+Books,Brave New World,A dystopian novel by Aldous Huxley exploring a futuristic society.,3
+Books,The Great Gatsby,A classic novel by F. Scott Fitzgerald capturing the Roaring Twenties.,4
+Books,War and Peace,A Russian epic novel by Leo Tolstoy depicting the Napoleonic era in Russia.,3
+Books,The Hunger Games,A dystopian novel by Suzanne Collins featuring a televised fight to the death.,3
+Movies,The Silence of the Lambs,A psychological thriller about an FBI agent and a brilliant serial killer.,4
+Movies,Pulp Fiction,A nonlinear crime film directed by Quentin Tarantino.,3
+Movies,Gladiator,A historical drama depicting a Roman general's quest for vengeance.,4
+Movies,Interstellar,A science fiction film exploring space travel and the survival of humanity.,3
+Movies,The Lion King,An animated Disney film featuring the journey of a young lion prince.,4
+Famous Landmarks,Mount Rushmore,A sculpture carved into a mountain featuring the faces of four U.S. presidents.,3
+Famous Landmarks,The Colosseum,An ancient Roman amphitheater known for gladiatorial contests.,4
+Famous Landmarks,The Pyramids of Giza,Iconic Egyptian structures built as tombs for pharaohs.,3
+
+
+
+
+
+Movies,Forrest Gump,A simple man's extraordinary life journey through historical events.,4
+Movies,Avatar,A science fiction film set on the alien planet of Pandora.,3
+Movies,The Matrix,A cyberpunk action film exploring a simulated reality.,4
+Movies,The Godfather,The story of a powerful Italian-American mafia family.,3
+Movies,Schindler's List,A film depicting a businessman's efforts to save Jews during the Holocaust.,4
+Famous Landmarks,Sydney Opera House,An iconic performing arts venue with distinctive shell-like architecture.,3
+Famous Landmarks,Stonehenge,A prehistoric monument consisting of massive stone circles.,4
+Famous Landmarks,Christ the Redeemer,A colossal statue of Jesus Christ overlooking Rio de Janeiro.,3
+Famous Landmarks,Petra,An ancient city carved into rose-red cliffs in Jordan.,4
+Famous Landmarks,Angkor Wat,A stunning temple complex in Cambodia, known for its intricate design.,4
+Historical Figures,George Washington,The first President of the United States and Founding Father.,3
+Historical Figures,Queen Elizabeth II,The longest-reigning current monarch of the United Kingdom.,4
+Historical Figures,Gandhi,The leader of India's nonviolent independence movement.,3
+Historical Figures,Abraham Lincoln,The 16th President of the United States who abolished slavery.,4
+Historical Figures,Malala Yousafzai,A Pakistani activist advocating for girls' education and women's rights.,4
+Animals,Giraffe,A tall, long-necked herbivore native to Africa.,3
+Animals,Humpback Whale,A majestic marine mammal known for its acrobatic leaps.,4
+Animals,Polar Bear,A large carnivorous bear adapted to cold Arctic environments.,3
+Animals,Red Fox,A small carnivorous mammal known for its cunning behavior.,4
+Animals,Kangaroo,An Australian marsupial known for its powerful hind legs.,3
+Countries,China,The world's most populous country with a rich cultural heritage.,4
+Countries,Russia,A vast nation known for its diverse landscapes and history.,4
+Countries,Canada,A North American country famous for its wilderness and friendly people.,3
+Countries,Germany,A European nation with a strong economy and rich history.,3
+Countries,United Kingdom,Comprising four countries, including England, Scotland, Wales, and Northern Ireland.,3
+Fruits,Blueberry,A small, sweet fruit often used in desserts and breakfast dishes.,3
+Fruits,Pineapple,A tropical fruit with a spiky exterior and sweet, juicy flesh.,3
+Fruits,Kiwi,A small, fuzzy fruit with green flesh and tiny black seeds.,3
+Fruits,Watermelon,A refreshing fruit with pink or red flesh and black seeds.,3
+Fruits,Mango,A juicy, tropical fruit known for its sweet and tangy flavor.,3
+Sports,Baseball,A bat-and-ball sport played on a diamond-shaped field.,4
+Sports,Hockey,A fast-paced team sport played on ice with sticks and a puck.,4
+Sports,Volleyball,A team sport played with a ball over a net.,3
+Sports,Cricket,A bat-and-ball game played between two teams on a circular field.,3
+Sports,Fencing,A combat sport involving two participants using swords.,3
+Technology,Artificial Intelligence (AI),The development of machines that can perform tasks requiring human intelligence.,4
+Technology,SpaceX,A private aerospace manufacturer and space transportation company.,3
+Technology,Self-Driving Cars,Vehicles equipped with technology to navigate without human input.,3
+Technology,Blockchain,A decentralized digital ledger technology used for secure transactions.,4
+Technology,Virtual Assistant,Software designed to assist users with tasks using natural language processing.,3
+Vegetables,Spinach,A leafy green vegetable rich in nutrients.,3
+Vegetables,Cauliflower,A white vegetable often used in cooking and as a low-carb substitute.,3
+Vegetables,Asparagus,A green vegetable known for its distinctive flavor.,3
+Vegetables,Beetroot,A root vegetable with vibrant red flesh often used in salads.,3
+Vegetables,Zucchini,A green summer squash often used in savory dishes and baking.,3
+Artists,Salvador Dali,A Spanish surrealist artist known for his eccentric and imaginative works.,4
+Artists,Andy Warhol,An American pop artist known for his iconic Campbell's Soup cans.,4
+Artists,Edvard Munch,A Norwegian painter famous for The Scream and symbolist art.,3
+Artists,Jackson Pollock,An American abstract expressionist known for his drip painting style.,3
+Artists,Michelangelo,An Italian Renaissance artist known for works like the Sistine Chapel ceiling.,4
+Food,Ice Cream,A frozen dessert available in various flavors and toppings.,3
+Food,Sushi,A Japanese dish consisting of vinegared rice, fish, and vegetables.,4
+Food,Taco,A traditional Mexican dish with a folded tortilla filled with various ingredients.,3
+Food,Chocolate Chip Cookies,Classic cookies with chocolate chips, loved by people of all ages.,4
+Food,Spicy Curry,A flavorful dish from India known for its use of aromatic spices.,3
+Science,The Periodic Table,A chart organizing chemical elements by atomic number and properties.,3
+Science,Climate Change,The long-term alteration of Earth's climate patterns due to human activities.,4
+Science,Genetics,The study of genes and heredity, influencing the traits of organisms.,3
+Science,Astronomy,The scientific study of celestial objects, such as stars, planets, and galaxies.,4
+Science,Neuroscience,The scientific study of the nervous system and brain function.,3
+Books,The Lord of the Rings,A fantasy novel series by J.R.R. Tolkien set in the fictional realm of Middle-earth.,4
+Books,Brave New World,A dystopian novel by Aldous Huxley exploring a futuristic society.,3
+Books,The Great Gatsby,A classic novel by F. Scott Fitzgerald capturing the Roaring Twenties.,4
+Books,War and Peace,A Russian epic novel by Leo Tolstoy depicting the Napoleonic era in Russia.,3
+Books,The Hunger Games,A dystopian novel by Suzanne Collins featuring a televised fight to the death.,3
+Movies,The Silence of the Lambs,A psychological thriller about an FBI agent and a brilliant serial killer.,4
+Movies,Pulp Fiction,A nonlinear crime film directed by Quentin Tarantino.,3
+Movies,Gladiator,A historical drama depicting a Roman general's quest for vengeance.,4
+Movies,Interstellar,A science fiction film exploring space travel and the survival of humanity.,3
+Movies,The Lion King,An animated Disney film featuring the journey of a young lion prince.,4
+Famous Landmarks,Mount Rushmore,A sculpture carved into a mountain featuring the faces of four U.S. presidents.,3
+Famous Landmarks,The Colosseum,An ancient Roman amphitheater known for gladiatorial contests.,4
+Famous Landmarks,The Pyramids of Giza,Iconic Egyptian structures built as tombs for pharaohs.,3
+Famous Landmarks,The Grand Canyon,A
+
+
+
+
+
+Famous Landmarks,Taj Mahal,A stunning white marble mausoleum in India.,4
+Famous Landmarks,The Great Wall of China,An ancient fortification winding through northern China.,3
+Famous Landmarks,The Eiffel Tower,An iconic iron lattice tower in the heart of Paris.,4
+Famous Landmarks,Statue of Liberty,A symbol of freedom and democracy in New York Harbor.,3
+Famous Landmarks,Machu Picchu,An ancient Incan citadel nestled in the Andes Mountains.,4
+Historical Figures,William Shakespeare,The English playwright known for timeless works like Romeo and Juliet.,3
+Historical Figures,Queen Cleopatra,The last pharaoh of Egypt, famed for her allure and wit.,4
+Historical Figures,Mahatma Gandhi,A leader of India's nonviolent struggle for independence.,3
+Historical Figures,Emperor Julius Caesar,An influential Roman leader known for his role in the fall of the Republic.,4
+Historical Figures,Amelia Earhart,An aviation pioneer and the first woman to fly solo across the Atlantic Ocean.,3
+Animals,Panda,A black and white bear native to China, known for its bamboo diet.,3
+Animals,Lion,The king of the jungle, a majestic big cat often associated with strength.,4
+Animals,Koala,A marsupial native to Australia, recognized for its eucalyptus diet.,3
+Animals,Orca (Killer Whale),A highly intelligent marine mammal known for its striking appearance.,4
+Animals,Red-Eyed Tree Frog,A vibrant, tree-dwelling frog native to Central and South America.,3
+Countries,Australia,A vast island nation known for unique wildlife and stunning landscapes.,4
+Countries,India,A culturally rich South Asian country known for its diverse traditions.,4
+Countries,Canada,A northern North American country celebrated for its natural beauty.,3
+Countries,Brazil,A South American nation famous for its Amazon rainforest and carnival.,3
+Countries,Japan,An East Asian country blending tradition with modernity.,3
+Fruits,Cherry,A small, sweet fruit with a distinct red or black color.,3
+Fruits,Avocado,A creamy green fruit often used in salads and spreads.,3
+Fruits,Grapefruit,A citrus fruit known for its tart taste and health benefits.,3
+Fruits,Papaya,A tropical fruit with orange flesh and edible seeds.,3
+Fruits,Dragon Fruit,A vibrant and exotic fruit with white or red flesh speckled with black seeds.,3
+Sports,Soccer,The world's most popular sport, played with a spherical ball.,4
+Sports,Basketball,A high-paced sport that involves shooting a ball into a hoop.,4
+Sports,Swimming,An aquatic activity that involves propelling oneself through water.,3
+Sports,Track and Field,A category of sports including running, jumping, and throwing events.,3
+Sports,Surfing,Riding ocean waves with a surfboard, a popular water sport.,3
+Technology,Smartwatch,A wearable device that offers various digital functions.,3
+Technology,Drone,An unmanned aerial vehicle used for various purposes.,3
+Technology,3D Printing,Creating three-dimensional objects from digital designs.,4
+Technology,Artificial Neural Network,A computer system inspired by the human brain used in machine learning.,4
+Technology,Augmented Reality (AR),Enhancing the real world with computer-generated elements.,3
+Vegetables,Cabbage,A leafy green vegetable often used in salads and coleslaw.,3
+Vegetables,Pepper (Bell Pepper),A colorful vegetable often used in cooking and salads.,3
+Vegetables,Eggplant,A purple or black vegetable commonly used in Mediterranean cuisine.,3
+Vegetables,Kale,A nutrient-rich leafy green vegetable used in various dishes.,3
+Vegetables,Okra,A green vegetable known for its slimy texture, often used in Southern cuisine.,3
+Artists,Leonardo da Vinci,The Renaissance genius behind the Mona Lisa and The Last Supper.,4
+Artists,Michelangelo,An Italian Renaissance artist celebrated for his sculptures and paintings.,4
+Artists,Vincent van Gogh,A Dutch post-impressionist painter known for his expressive use of color.,4
+Artists,Frida Kahlo,A Mexican artist renowned for her self-portraits and surrealistic style.,4
+Artists,Pablo Picasso,The Spanish artist who co-founded the Cubist movement and created iconic works.,4
+Food,Pasta,Italian noodles made from wheat flour, often served with various sauces.,3
+Food,Sushi,Japanese cuisine featuring vinegared rice and ingredients like seafood and vegetables.,4
+Food,Taco,Mexican street food consisting of a folded tortilla with a variety of fillings.,3
+Food,Burger,A popular American sandwich typically containing a meat patty and toppings.,3
+Food,Pancakes,Flat and fluffy breakfast cakes often served with syrup and butter.,3
+Science,Chemistry,The study of matter, its properties, and how substances interact.,3
+Science,Physics,The study of the fundamental forces and properties of the universe.,4
+Science,Biology,The science of living organisms and their interactions.,3
+Science,Astronomy,The study of celestial objects, including stars, planets, and galaxies.,4
+Science,Geology,The study of Earth's structure, composition, and geological processes.,3
+Books,To Kill a Mockingbird,A novel by Harper Lee addressing racial injustice in the American South.,4
+Books,Pride and Prejudice,A classic novel by Jane Austen exploring themes of love and class.,3
+Books,1984,A dystopian novel by George Orwell depicting a totalitarian society.,4
+Books,The Catcher in the Rye,A novel by J.D. Salinger featuring the disillusioned teenager Holden Caulfield.,3
+Books,Harry Potter and the Sorcerer's Stone,The first book in the Harry Potter series by J.K. Rowling.,4
+Movies,The Silence of the Lambs,A psychological thriller about an FBI agent and a brilliant serial killer.,4
+Movies,Pulp Fiction,A nonlinear crime film directed by Quentin Tarantino.,3
+Movies,Gladiator,A historical drama depicting a Roman general's quest for vengeance.,4
+Movies,Interstellar,A science fiction film exploring space travel and the survival of humanity.,3
+Movies,The Lion King,An animated Disney film featuring the journey of a young lion prince.,4
+Famous Landmarks,Mount Rushmore,A sculpture carved into a mountain featuring the faces of four U.S. presidents.,3
+Famous Landmarks,The Colosseum,An ancient Roman amphitheater known for gladiatorial contests.,4
+Famous Landmarks,The Pyramids of Giza,Iconic Egyptian structures built as tombs for pharaohs.,3
+Famous Landmarks,The Grand Canyon,A breathtaking natural wonder known for its immense size and beauty.,4
+Famous Landmarks,The Sydney Opera House,An iconic performing arts venue with distinctive shell-like architecture.,3
+Historical Figures,Thomas Edison,An American inventor known for his contributions to the light bulb and phonograph.,3
+Histor
