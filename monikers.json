@@ -1,179 +1,179 @@
 [
   {
-    "Title": "Michael Myers",
-    "Description": "The silent, unstoppable force of evil from the 'Halloween' series, known for his white mask and relentless pursuit of his victims.",
-    "Category": "Character",
-    "Points": 3
+    "title": "Michael Myers",
+    "description": "The silent, unstoppable force of evil from the 'Halloween' series, known for his white mask and relentless pursuit of his victims.",
+    "category": "Character",
+    "points": 3
   },
   {
-    "Title": "Haddonfield, Illinois",
-    "Description": "The fictional town where Michael Myers returns to terrorize its residents on Halloween night.",
-    "Category": "Location",
-    "Points": 2
+    "title": "Haddonfield, Illinois",
+    "description": "The fictional town where Michael Myers returns to terrorize its residents on Halloween night.",
+    "category": "Location",
+    "points": 2
   },
   {
-    "Title": "Freddy Krueger",
-    "Description": "The burned, claw-gloved villain from 'A Nightmare on Elm Street,' who kills teenagers in their dreams.",
-    "Category": "Character",
-    "Points": 4
+    "title": "Freddy Krueger",
+    "description": "The burned, claw-gloved villain from 'A Nightmare on Elm Street,' who kills teenagers in their dreams.",
+    "category": "Character",
+    "points": 4
   },
   {
-    "Title": "Elm Street",
-    "Description": "The iconic street where Freddy Krueger haunts the dreams of the local teenagers.",
-    "Category": "Location",
-    "Points": 2
+    "title": "Elm Street",
+    "description": "The iconic street where Freddy Krueger haunts the dreams of the local teenagers.",
+    "category": "Location",
+    "points": 2
   },
   {
-    "Title": "One, two, Freddy's coming for you...",
-    "Description": "The chilling nursery rhyme that signals Freddy Krueger's approach in 'A Nightmare on Elm Street.'",
-    "Category": "Saying",
-    "Points": 3
+    "title": "One, two, Freddy's coming for you...",
+    "description": "The chilling nursery rhyme that signals Freddy Krueger's approach in 'A Nightmare on Elm Street.'",
+    "category": "Saying",
+    "points": 3
   },
   {
-    "Title": "Jason Voorhees",
-    "Description": "The hockey mask-wearing, machete-wielding killer from 'Friday the 13th,' who stalks the woods of Camp Crystal Lake.",
-    "Category": "Character",
-    "Points": 4
+    "title": "Jason Voorhees",
+    "description": "The hockey mask-wearing, machete-wielding killer from 'Friday the 13th,' who stalks the woods of Camp Crystal Lake.",
+    "category": "Character",
+    "points": 4
   },
   {
-    "Title": "Camp Crystal Lake",
-    "Description": "The summer camp where Jason Voorhees terrorizes counselors and victims with his deadly machete.",
-    "Category": "Location",
-    "Points": 2
+    "title": "Camp Crystal Lake",
+    "description": "The summer camp where Jason Voorhees terrorizes counselors and victims with his deadly machete.",
+    "category": "Location",
+    "points": 2
   },
   {
-    "Title": "Chucky",
-    "Description": "The possessed doll from 'Child's Play,' known for his maniacal grin and penchant for chaos.",
-    "Category": "Character",
-    "Points": 3
+    "title": "Chucky",
+    "description": "The possessed doll from 'Child's Play,' known for his maniacal grin and penchant for chaos.",
+    "category": "Character",
+    "points": 3
   },
   {
-    "Title": "Pennywise the Clown",
-    "Description": "The terrifying clown from Stephen King's 'It,' who lures children into the sewers of Derry.",
-    "Category": "Character",
-    "Points": 5
+    "title": "Pennywise the Clown",
+    "description": "The terrifying clown from Stephen King's 'It,' who lures children into the sewers of Derry.",
+    "category": "Character",
+    "points": 5
   },
   {
-    "Title": "Derry, Maine",
-    "Description": "The cursed town where Pennywise preys on the fears of the local children in Stephen King's 'It.'",
-    "Category": "Location",
-    "Points": 2
+    "title": "Derry, Maine",
+    "description": "The cursed town where Pennywise preys on the fears of the local children in Stephen King's 'It.'",
+    "category": "Location",
+    "points": 2
   },
   {
-    "Title": "We all float down here...",
-    "Description": "The creepy phrase Pennywise uses to lure his victims into the sewers in 'It.'",
-    "Category": "Saying",
-    "Points": 3
+    "title": "We all float down here...",
+    "description": "The creepy phrase Pennywise uses to lure his victims into the sewers in 'It.'",
+    "category": "Saying",
+    "points": 3
   },
   {
-    "Title": "Ghostface",
-    "Description": "The masked killer from the 'Scream' series, known for tormenting victims over the phone before attacking.",
-    "Category": "Character",
-    "Points": 4
+    "title": "Ghostface",
+    "description": "The masked killer from the 'Scream' series, known for tormenting victims over the phone before attacking.",
+    "category": "Character",
+    "points": 4
   },
   {
-    "Title": "Woodsboro, California",
-    "Description": "The fictional town where the Ghostface killings occur in the 'Scream' series.",
-    "Category": "Location",
-    "Points": 2
+    "title": "Woodsboro, California",
+    "description": "The fictional town where the Ghostface killings occur in the 'Scream' series.",
+    "category": "Location",
+    "points": 2
   },
   {
-    "Title": "Do you like scary movies?",
-    "Description": "Ghostface's iconic question to his victims before attacking in 'Scream.'",
-    "Category": "Saying",
-    "Points": 3
+    "title": "Do you like scary movies?",
+    "description": "Ghostface's iconic question to his victims before attacking in 'Scream.'",
+    "category": "Saying",
+    "points": 3
   },
   {
-    "Title": "Dracula",
-    "Description": "The classic vampire from Bram Stoker's novel, a suave and deadly creature who preys on humans for their blood.",
-    "Category": "Character",
-    "Points": 4
+    "title": "Dracula",
+    "description": "The classic vampire from Bram Stoker's novel, a suave and deadly creature who preys on humans for their blood.",
+    "category": "Character",
+    "points": 4
   },
   {
-    "Title": "Transylvania",
-    "Description": "The legendary home of Count Dracula, known for its gothic castles and dark forests.",
-    "Category": "Location",
-    "Points": 2
+    "title": "Transylvania",
+    "description": "The legendary home of Count Dracula, known for its gothic castles and dark forests.",
+    "category": "Location",
+    "points": 2
   },
   {
-    "Title": "Frankenstein's Monster",
-    "Description": "The misunderstood creation of Dr. Frankenstein, a towering figure stitched together from corpses.",
-    "Category": "Character",
-    "Points": 3
+    "title": "Frankenstein's Monster",
+    "description": "The misunderstood creation of Dr. Frankenstein, a towering figure stitched together from corpses.",
+    "category": "Character",
+    "points": 3
   },
   {
-    "Title": "Castle Frankenstein",
-    "Description": "The gloomy castle where Dr. Frankenstein conducts his experiments to create life in his monster.",
-    "Category": "Location",
-    "Points": 2
+    "title": "Castle Frankenstein",
+    "description": "The gloomy castle where Dr. Frankenstein conducts his experiments to create life in his monster.",
+    "category": "Location",
+    "points": 2
   },
   {
-    "Title": "The Wicked Witch of the West",
-    "Description": "The green-skinned villain from 'The Wizard of Oz,' who seeks revenge for her sister's death.",
-    "Category": "Character",
-    "Points": 3
+    "title": "The Wicked Witch of the West",
+    "description": "The green-skinned villain from 'The Wizard of Oz,' who seeks revenge for her sister's death.",
+    "category": "Character",
+    "points": 3
   },
   {
-    "Title": "The Yellow Brick Road",
-    "Description": "The path Dorothy follows in 'The Wizard of Oz' to reach the Emerald City, avoiding the Wicked Witch's traps.",
-    "Category": "Location",
-    "Points": 2
+    "title": "The Yellow Brick Road",
+    "description": "The path Dorothy follows in 'The Wizard of Oz' to reach the Emerald City, avoiding the Wicked Witch's traps.",
+    "category": "Location",
+    "points": 2
   },
   {
-    "Title": "The Joker",
-    "Description": "Batman’s arch-nemesis, a psychotic clown with a twisted sense of humor and love for chaos.",
-    "Category": "Character",
-    "Points": 5
+    "title": "The Joker",
+    "description": "Batman’s arch-nemesis, a psychotic clown with a twisted sense of humor and love for chaos.",
+    "category": "Character",
+    "points": 5
   },
   {
-    "Title": "Gotham City",
-    "Description": "The crime-ridden metropolis where Batman fights his rogues' gallery, including the Joker.",
-    "Category": "Location",
-    "Points": 2
+    "title": "Gotham City",
+    "description": "The crime-ridden metropolis where Batman fights his rogues' gallery, including the Joker.",
+    "category": "Location",
+    "points": 2
   },
   {
-    "Title": "Why so serious?",
-    "Description": "The Joker's infamous line from 'The Dark Knight,' highlighting his twisted philosophy on life.",
-    "Category": "Saying",
-    "Points": 4
+    "title": "Why so serious?",
+    "description": "The Joker's infamous line from 'The Dark Knight,' highlighting his twisted philosophy on life.",
+    "category": "Saying",
+    "points": 4
   },
   {
-    "Title": "Beetlejuice",
-    "Description": "The chaotic 'bio-exorcist' from Tim Burton's 'Beetlejuice,' who loves trouble and mischief.",
-    "Category": "Character",
-    "Points": 3
+    "title": "Beetlejuice",
+    "description": "The chaotic 'bio-exorcist' from Tim Burton's 'Beetlejuice,' who loves trouble and mischief.",
+    "category": "Character",
+    "points": 3
   },
   {
-    "Title": "'Beetlejuice, Beetlejuice, Beetlejuice!'",
-    "Description": "The phrase that summons Beetlejuice, the mischievous ghost, in the film of the same name.",
-    "Category": "Saying",
-    "Points": 3
+    "title": "'Beetlejuice, Beetlejuice, Beetlejuice!'",
+    "description": "The phrase that summons Beetlejuice, the mischievous ghost, in the film of the same name.",
+    "category": "Saying",
+    "points": 3
   },
   {
-    "Title": "Regan MacNeil",
-    "Description": "The possessed girl from 'The Exorcist,' whose transformation under demonic influence is horrifying.",
-    "Category": "Character",
-    "Points": 4
+    "title": "Regan MacNeil",
+    "description": "The possessed girl from 'The Exorcist,' whose transformation under demonic influence is horrifying.",
+    "category": "Character",
+    "points": 4
   },
   {
-    "Title": "The power of Christ compels you!",
-    "Description": "The famous line from 'The Exorcist,' spoken during the exorcism to drive the demon out of Regan.",
-    "Category": "Saying",
-    "Points": 3
+    "title": "The power of Christ compels you!",
+    "description": "The famous line from 'The Exorcist,' spoken during the exorcism to drive the demon out of Regan.",
+    "category": "Saying",
+    "points": 3
   },
   {
-    "Title": "The Headless Horseman",
-    "Description": "The ghostly rider from 'The Legend of Sleepy Hollow,' who searches for his missing head.",
-    "Category": "Character",
-    "Points": 3
+    "title": "The Headless Horseman",
+    "description": "The ghostly rider from 'The Legend of Sleepy Hollow,' who searches for his missing head.",
+    "category": "Character",
+    "points": 3
   },
   {
-    "Title": "Sleepy Hollow",
-    "Description": "The haunted town where Ichabod Crane encounters the Headless Horseman in Washington Irving's story.",
-    "Category": "Location",
-    "Points": 2
+    "title": "Sleepy Hollow",
+    "description": "The haunted town where Ichabod Crane encounters the Headless Horseman in Washington Irving's story.",
+    "category": "Location",
+    "points": 2
   },
   {
-    "Title": "Jack Skellington",
-    "Description": "The Pumpkin King of Halloween Town from 'The Nightmare Before Christmas,' who wants to take over Christmas.",
-    "Category": 
+    "title": "Jack Skellington",
+    "description": "The Pumpkin King of Halloween Town from 'The Nightmare Before Christmas,' who wants to take over Christmas.",
+    "category": 
